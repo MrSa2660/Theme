@@ -1,0 +1,28 @@
+/**
+ 
+@name Discord+
+@author PlusInsta
+@authorId 309931975102300160
+@authorLink https://plusinsta.xyz/
+@version 3.2.0
+@description A sleek, customizable Discord theme.
+@donate https://ko-fi.com/plusinsta
+@website https://plusinsta.xyz/discord-plus
+@source https://github.com/PlusInsta/discord-plus
+@updateUrl https://plusinsta.xyz/discord-plus/DiscordPlus.theme.css
+@invite 2Jwh2nS
+**/
+
+@import url(https://discordstyles.github.io/HorizontalServerList/dist/HorizontalServerList.css);
+
+@import url('https://clearvision.gitlab.io/v6/main.css%22');
+
+/** I've commented most of these values so you can change them yourself. If you're having trouble, or you want to do more than what these values allow for, a volunteer might be able to help you in my server. **/
+
+:root{
+/** Backdrop image which is shown behind the app. Can also be an HTML color. Falls back to accent color if invalid.
+   To use an image from your computer, upload it somewhere first, copy its link, then paste it below. **/
+   --background-image: url('https://images6.alphacoders.com/910/thumb-1920-910149.jpg') !important ; 
+   --main-color: #ff0000;
+   --hover-color: #ff0000;
+}
