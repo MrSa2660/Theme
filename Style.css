@@ -1,16 +1,7 @@
 /**
  
 @name Discord+
-@author PlusInsta
-@authorId 309931975102300160
-@authorLink https://plusinsta.xyz/
 @version 3.2.0
-@description A sleek, customizable Discord theme.
-@donate https://ko-fi.com/plusinsta
-@website https://plusinsta.xyz/discord-plus
-@source https://github.com/PlusInsta/discord-plus
-@updateUrl https://plusinsta.xyz/discord-plus/DiscordPlus.theme.css
-@invite 2Jwh2nS
 **/
 
 
@@ -24,11 +15,9 @@
 /** I've commented most of these values so you can change them yourself. If you're having trouble, or you want to do more than what these values allow for, a volunteer might be able to help you in my server. **/
 
 :root{
-/* ACCENT COLORS */
-  /* ACCENT COLORS */
 	--background-image: url('https://cdn.discordapp.com/attachments/853341403152121876/1089229310390435980/unknown.png') !important ;
-   --background-overlay: rgba(0,0,0,0.5);
-   --main-color: #9b0404;
-   --hover-color: #c20505;
+	--background-overlay: rgba(0,0,0,0.5);
+	--main-color: #9b0404;
+	--hover-color: #c20505;
 	
 }
